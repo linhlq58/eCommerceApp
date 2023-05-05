@@ -19,3 +19,19 @@
 2023-05-05 14:47:03,491 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 6.595 seconds (JVM running for 7.59)
 2023-05-05 14:47:03,495 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
 2023-05-05 14:47:06,068 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Username set with: LinkLee
+2023-05-05 15:07:07,053 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on LAPTOP-8VP2FA89 with PID 21176 (D:\IdeaProjects\eCommerce\starter_code\target\classes started by admin in D:\IdeaProjects\eCommerce\starter_code)
+2023-05-05 15:07:07,062 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-05 15:07:07,063 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-05 15:07:13,205 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 6.638 seconds (JVM running for 7.78)
+2023-05-05 15:07:13,208 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-05-05 15:07:16,885 INFO c.e.d.c.UserController [http-nio-8080-exec-1] CreateUser request succeeded
+2023-05-05 15:07:25,156 INFO c.e.d.c.UserController [http-nio-8080-exec-3] CreateUser request succeeded
+2023-05-05 15:07:35,780 INFO c.e.d.c.UserController [http-nio-8080-exec-4] CreateUser request succeeded
+2023-05-05 15:24:24,091 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on LAPTOP-8VP2FA89 with PID 3228 (D:\IdeaProjects\eCommerce\starter_code\target\classes started by admin in D:\IdeaProjects\eCommerce\starter_code)
+2023-05-05 15:24:24,107 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-05 15:24:24,108 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-05 15:24:30,533 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 6.934 seconds (JVM running for 7.989)
+2023-05-05 15:24:30,536 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-05-05 15:25:23,416 INFO c.e.d.c.UserController [http-nio-8080-exec-2] CreateUser request succeeded
+2023-05-05 15:26:24,631 ERROR c.e.d.c.UserController [http-nio-8080-exec-7] Exception: User 1, does not exist
+2023-05-05 15:26:44,255 ERROR c.e.d.c.UserController [http-nio-8080-exec-9] Exception: User id 2, does not exist
