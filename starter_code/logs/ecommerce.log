@@ -1,0 +1,21 @@
+2023-05-05 14:41:53,811 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on LAPTOP-8VP2FA89 with PID 4092 (D:\IdeaProjects\eCommerce\starter_code\target\classes started by admin in D:\IdeaProjects\eCommerce\starter_code)
+2023-05-05 14:41:53,824 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-05 14:41:53,826 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-05 14:41:59,913 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 6.584 seconds (JVM running for 7.602)
+2023-05-05 14:42:19,183 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on LAPTOP-8VP2FA89 with PID 8000 (D:\IdeaProjects\eCommerce\starter_code\target\classes started by admin in D:\IdeaProjects\eCommerce\starter_code)
+2023-05-05 14:42:19,200 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-05 14:42:19,203 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-05 14:42:26,350 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 7.788 seconds (JVM running for 9.138)
+2023-05-05 14:42:26,355 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-05-05 14:45:38,758 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on LAPTOP-8VP2FA89 with PID 6364 (D:\IdeaProjects\eCommerce\starter_code\target\classes started by admin in D:\IdeaProjects\eCommerce\starter_code)
+2023-05-05 14:45:38,776 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-05 14:45:38,777 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-05 14:45:45,019 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 6.76 seconds (JVM running for 7.752)
+2023-05-05 14:45:45,022 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-05-05 14:45:48,173 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Username set with: LinkLee
+2023-05-05 14:46:57,358 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on LAPTOP-8VP2FA89 with PID 24744 (D:\IdeaProjects\eCommerce\starter_code\target\classes started by admin in D:\IdeaProjects\eCommerce\starter_code)
+2023-05-05 14:46:57,368 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-05 14:46:57,369 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-05 14:47:03,491 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 6.595 seconds (JVM running for 7.59)
+2023-05-05 14:47:03,495 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-05-05 14:47:06,068 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Username set with: LinkLee
