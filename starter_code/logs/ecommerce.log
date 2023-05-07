@@ -35,3 +35,61 @@
 2023-05-05 15:25:23,416 INFO c.e.d.c.UserController [http-nio-8080-exec-2] CreateUser request succeeded
 2023-05-05 15:26:24,631 ERROR c.e.d.c.UserController [http-nio-8080-exec-7] Exception: User 1, does not exist
 2023-05-05 15:26:44,255 ERROR c.e.d.c.UserController [http-nio-8080-exec-9] Exception: User id 2, does not exist
+2023-05-07 15:55:06,499 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-R4K86N1 with PID 19812 (C:\IdeaProjects\eCommerce\starter_code\target\classes started by lequy in C:\IdeaProjects\eCommerce\starter_code)
+2023-05-07 15:55:06,508 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-07 15:55:06,509 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-07 15:55:12,041 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 5.906 seconds (JVM running for 7.276)
+2023-05-07 15:55:12,044 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-05-07 15:55:42,357 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-R4K86N1 with PID 17820 (C:\IdeaProjects\eCommerce\starter_code\target\classes started by lequy in C:\IdeaProjects\eCommerce\starter_code)
+2023-05-07 15:55:42,364 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-07 15:55:42,365 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-05-07 15:55:46,985 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 5.023 seconds (JVM running for 6.188)
+2023-05-07 15:55:46,987 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-05-07 15:58:47,830 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 15:58:47,849 ERROR c.e.d.c.UserController [main] Exception: User was not created, because password is smaller than 7 characters or password does not match
+2023-05-07 15:58:59,080 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 15:58:59,102 ERROR c.e.d.c.UserController [main] Exception: User was not created, because password is smaller than 7 characters or password does not match
+2023-05-07 16:03:27,810 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:03:27,827 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:04:40,226 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:04:40,243 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:09:14,255 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:09:14,273 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:09:25,244 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:09:25,269 ERROR c.e.d.c.UserController [main] Exception: User was not created, because password is smaller than 7 characters or password does not match
+2023-05-07 16:09:25,270 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:09:25,270 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:10:23,598 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:10:23,614 ERROR c.e.d.c.UserController [main] Exception: User id 1, does not exist
+2023-05-07 16:10:34,266 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:10:34,284 ERROR c.e.d.c.UserController [main] Exception: User id 1, does not exist
+2023-05-07 16:10:34,285 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:10:34,286 ERROR c.e.d.c.UserController [main] Exception: User was not created, because password is smaller than 7 characters or password does not match
+2023-05-07 16:10:34,287 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:10:34,287 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:19:47,179 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:19:47,198 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:20:33,937 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:20:33,966 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:21:13,773 ERROR c.e.d.c.UserController [main] Exception: User id 1, does not exist
+2023-05-07 16:21:13,805 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:21:13,806 ERROR c.e.d.c.UserController [main] Exception: User was not created, because password is smaller than 7 characters or password does not match
+2023-05-07 16:21:13,807 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 16:21:13,807 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:25:08,216 ERROR c.e.d.c.UserController [main] Exception: User id 1, does not exist
+2023-05-07 16:53:08,701 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:53:32,741 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 16:59:59,312 INFO c.e.d.c.UserController [main] Order submit succeeded
+2023-05-07 17:04:03,793 INFO c.e.d.c.UserController [main] Get order history succeeded
+2023-05-07 17:04:03,811 INFO c.e.d.c.UserController [main] Get order history succeeded
+2023-05-07 17:04:12,596 INFO c.e.d.c.UserController [main] Order submit succeeded
+2023-05-07 17:04:12,615 INFO c.e.d.c.UserController [main] Get order history succeeded
+2023-05-07 17:04:12,617 INFO c.e.d.c.UserController [main] Get order history succeeded
+2023-05-07 17:11:54,460 INFO c.e.d.c.UserController [main] Order submit succeeded
+2023-05-07 17:11:54,466 INFO c.e.d.c.UserController [main] Get order history succeeded
+2023-05-07 17:11:54,467 INFO c.e.d.c.UserController [main] Get order history succeeded
+2023-05-07 17:11:54,486 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 17:11:54,488 INFO c.e.d.c.UserController [main] CreateUser request succeeded
+2023-05-07 17:11:54,489 ERROR c.e.d.c.UserController [main] Exception: User was not created, because password is smaller than 7 characters or password does not match
+2023-05-07 17:11:54,490 ERROR c.e.d.c.UserController [main] Exception: User test, does not exist
+2023-05-07 17:11:54,490 INFO c.e.d.c.UserController [main] CreateUser request succeeded
